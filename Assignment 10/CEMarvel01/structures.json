@@ -1,0 +1,84 @@
+
+[
+    {
+        "id": 1,
+        "name": "Great Wall",
+        "country": "china",
+        "description": "More than 2200 years ago, the first emperor of China, after uniting the country, ordered the construction of this wall. Although what remains today is mainly from the Ming dynasty that existed from 14th to 17th century, we can see that the first emperor wanted to defend China from the intrusion of various nomadic powers. There must have been lots of hurdles to overcome to construct the great wall. Lots of people may have been injured or even died during the construction. But we see the purpose of this monumental structure. This was to protect lives and wealth of people.",
+        "latitude": 39.935539,
+        "longitude": 116.405640,
+        "picture": "great wall"
+    },
+    {
+        "id": 2,
+        "name": "Segovia Aqueduct",
+        "country": "spain",
+        "description": "The Aqueduct of Segovia is known to have been built at the end of the 1st century by Roman engineers. Roman engineers defined three dimensions of quality: Utilitas, Firmitas, and Venustas. Utilitas is the utility of the structure, Firmitas means structural integrity, and Venustas is aesthetics. Thanks to these quality criteria, the Aqueduct had been in use to transport water until 19th century.",
+        "latitude": 40.942902,
+        "longitude": -4.108807,
+        "picture": "segovia aqueduct"
+    },
+    {
+        "id": 3,
+        "name": "Panama Canal",
+        "country": "panama",
+        "description": "Panama Canal links the Pacific and the Atlantic Oceans. It was French people who first worked on this construction. After a successful completion of the Suez Canal, the French tried to complete this project but in vain. Technical difficulties, hostile climate, and political issues had led to the failure. It was Americans who took over the construction in early 20th century. They tried to solve those problems identified by the French people. They used the lock-approach to have different water elevations in the canal. They controlled mosquitos to deal with the disease of yellow fever. They even supported a revolution that led to the formation of Republic of Panama.",
+        "latitude": 9.080000,
+        "longitude": -79.680000,
+        "picture": "panama canal"
+    },
+    {
+        "id": 4,
+        "name": "Incheon Bridge",
+        "country": "korea",
+        "description": "Incheon Bridge is a part of the 21.38 km long highway linking Incheon and Seoul in Korea. As you can see, this is a cable-stayed bridge. The main span between the two pylons is 800 m, and the height of each pylon is 230.5 m. The total cost was about $2.2 billion. This structure was completed in 2009 using the so-called public-private-partnership approach. Not just tax payers’ money but also private entities money were used for this construction.",
+        "latitude": 37.413891,
+        "longitude": 126.566666,
+        "picture": "incheon bridge"
+    },
+    {
+        "id": 5,
+        "name": "Burj Khalifa",
+        "country": "uae",
+        "description": "Burj Khalifa is the tallest building of the world located in Dubai. The height is 829.8 m and there is 163 floors. This was completed in 2010. It cost about $1.5 billion. Suppose you have this money of $1.5 billion, and your job is to build this monumental structure. What would you do?",
+        "latitude": 25.197525,
+        "longitude": 55.274288,
+        "picture": "burj khalifa"
+    },
+    {
+        "id": 6,
+        "name": "Christ the Redeemer",
+        "country": "brazil",
+        "description": "Christ the Redeemer (Portuguese: Cristo Redentor, standard Brazilian Portuguese: [ˈkɾistu ʁedẽˈtoʁ]) is an Art Deco statue of Jesus Christ in Rio de Janeiro, Brazil, created by French sculptor Paul Landowski and built by Brazilian engineer Heitor da Silva Costa, in collaboration with French engineer Albert Caquot. Romanian sculptor Gheorghe Leonida sculpted the face. Constructed between 1922 and 1931, the statue is 30 metres (98 ft) high, excluding its 8-meter (26 ft) pedestal. The arms stretch 28 metres (92 ft) wide. It is made of reinforced concrete and soapstone.[3][4][5] Christ the Redeemer differs considerably from its original design, as the initial plan was a large Christ with a globe in one hand and a cross in the other. Although the project organisers originally accepted the design, it later changed to the statue of today, with the arms spread out wide.\n [Korean ver.]\n 거대 예수상은 브라질의 리우데자네이루(히우 지 자네이루)에 있는 거대한 석상이다. 정식명칭은 구세주 그리스도상. 높이 30m, 대좌 8m, 양팔의 길이 28m, 무게 635t의 규모로, 세계적으로 유명하고 석상을 보기 위한 방문객도 많다. 재질은 철근 콘크리트 구조물의 표면을 동석(soapstone)으로 조각한 것이다.\n 자유의 여신상이 뉴욕을 상징하고 에펠 탑이 파리를 상징하듯, 이 석상은 리우데자네이루을 상징하는 랜드마크가 되었다. 그리고 브라질 전체의 랜드마크이기도 하다.\n이 석상은 높이 710m의 코르코바두 산 정상에 있는데, 이곳에서는 리우 시내는 물론 코파카바나 해안, 이파네마 해변, 슈가로프 산도 한 눈에 들어오는 멋진 전망을 즐길 수 있다. 하지만 자유의 여신상 같이 머리 위로 올라가는 전망대 같은 건 없다. 석상도 보고 전망도 즐기기 위해 연간 약 180만 명의 관광객들이 이곳을 방문한다.\n예수상을 찍은 사진들은 대부분 리우의 또다른 상징인 팡 지 아수카르와 같이 찍힌 경우가 많다. 위 사진 역시 예수가 빵산을 바라보고 있는 것처럼 보이게 찍혀 있다. 단 이것은 핑계고 이런 구도의 사진이 많은 진짜 이유는 예수상 뒤의 슬럼인 파벨라를 가리기 위한 것이다. 실제로 예수상의 앞모습을 찍은 사진들은 뒷모습 사진과 다르게 정면 혹은 그 아래에서 찍은 사진들이 대부분이다.\n신 세계 7대 불가사의에 선정되었으나 역사가 100년도 되지 않은 터라 세계적으로 씹히기도 했다. 애초에 다른 6개는 모두 유네스코 세계유산이기도 하다. 당시 바티칸 측에서는 두오모 대성당이나 바티칸 대성당이 있는데 이게 선정된 게 결국 전세계 가톨릭인 관광객들이나 생각한 거냐면서 언짢은 반응을 보였다. 그리고 알다시피 이건 선정한 재단이 국제적 사기꾼이라는 주장도 거세진 터라 예수상 앞으로는 무장 경호원들이 지키는 고급 공동주택들이 즐비한 번화가와 부유한 저택들이, 예수상 뒤로는 바로 그 막장 빈민촌인 파벨라가 있다. 그래서 \"예수상은 뒤를 돌아보지 않는다\"라는 말까지 있을 정도로 극단적인 양극화의 상징이기도 하다.\n이 예수상을 덮고 있는 동석판은 오직 단 한 군데의 지정된 채석장에서만 캔 것을 사용하는데, 더이상 이 채석장에서 밝은색의 동석이 나지 않아 동석판을 갈아끼울 때마다 갈수록 색깔이 어두워지고 있다.",
+        "latitude":  -22.95098732756368,
+        "longitude": -43.209006420689406,
+        "picture": "Jesus"
+    },
+    {
+        "id": 7,
+        "name": "Machu Pichhu",
+        "country": "peru",
+        "description": "마추 픽추(스페인어: machu picchu 마추 삑추[*], 문화어: 마츄 삐끄츄)는 페루에 있는 잉카 문명의 고대 요새 도시이다. 15세기에 남아메리카를 지배했던 잉카 제국에 의해 지어진 것으로 추정된다. 해수면에서 2,430m나 되는 산맥의 정상 위에 위치해있다. 쿠스코에서 북서쪽으로 80km정도 떨어져 있고, 우루밤바 강이 도시가 있는 산맥 아래를 꺾어 흘러가고 있다.\n대다수의 고고학자들은 잉카 제국의 파차쿠티 황제가 이 요새 도시를 건립한 것으로 추정한다. 보통 '잃어버린 도시'의 이미지로 잉카 문명을 상징하는 유적으로 많이 불리는 경우가 많다. 마추픽추는 1450년 즈음에 지어졌고, 약 1세기 후에 스페인의 침략과 비슷한 시기에 버려졌다. 이후 주변 현지인들에게만 간간히 알려져 있던 정도였고, 1911년에 미국의 탐험가 하이럼 빙엄이 다시 발견해 내기 전까지 세상에서 잊혀져 있었다.\n마추 픽추는 잉카 고전 양식으로 지어졌다. 접착제나 모르타르 등을 전혀 사용하지 않은 채 돌과 석재들을 쌓아 올려 만들어졌고, 주요 건물은 해시계, 태양의 신전, 세 창문의 방 등이 있다. 현재 우리가 볼 수 있는 대부분의 건물들은 페루 정부에서 관광객들을 위해 복원시켜 둔 것으로, 1976년에 전체 유적지의 약 30%정도가 복원되었고 현재도 복원사업을 진행하고 있다.\n1983년에 유네스코 세계 문화 유산으로 지정되었고 2007년에는 새로운 세계의 7대 불가사의들 중 하나로 선정되었다.",
+        "latitude": -9.868496713241262,
+        "longitude": -72.40943004748993,
+        "picture": "machu"
+    },
+    {
+        "id": 8,
+        "name": "Taj Mahal",
+        "country": "India",
+        "description": "타지마할(힌디어: ताज महल, 우르두어: تاج محل, 페르시아어: تاج محل)은 인도 아그라에 위치한 무굴 제국의 대표적 건축물이다. 무굴 제국의 황제 샤 자한이 자신의 총애하였던 부인 뭄타즈 마할로 알려진 아르주망 바누 베굼을 기리기 위하여 1632년에 무덤 건축을 명하여 2만여 명이 넘는 노동자를 동원하여 건설하였다. 건축의 총 책임자는 우스타드 아마드 로하리로 알려져 있고, 뭄타즈 마할이 죽은지 6개월 후부터 건설을 시작하여 완공에 22년이 걸렸다. 타지마할은 총 17헥타르에 달하는 거대한 무덤군의 중심 부분이며, 실제로 무덤군은 응접실, 모스크 등이 따로 딸려있다. 영묘의 건설은 거의 대부분 1643년에 완료되었으나, 추가적인 보조 작업이 약 10년 동안 진행되어 1653년에야 현재 우리가 볼 수 있는 모습으로 만들어지게 되었다. \n타지마할을 건설하는 데에는 당시 가치로 3천 2백만 루피아, 현재의 가치로는 8억 2천 7백만 달러가 소요되었을 것으로 추정된다. 타지마할 건설 당시, 황제 직속 건축가인 우스타드 아흐메드 라하우리의 감독 아래 20,000여 명에 달하는 예술가들이 작업에 참여하였다.타지마할은 페르시아, 터키, 인도 및 이슬람의 건축 양식이 잘 조합된 무굴 건축의 가장 훌륭한 예이다. 1983년 타지마할은 유네스코 세계 문화 유산으로 등재되면서, \"인도에 위치한 무슬림 예술의 보석이며 인류가 보편적으로 감탄할 수 있는 걸작\"이라는 찬사를 받았다.(타지마할은 역사적으로 예쁜 건축물에도 포함되어있다.)\n일반적으로 흰색 대리석 돔의 영묘가 가장 널리 알려져 있으나, 타지마할의 규모는 더 크다. 네 귀퉁이의 높이 40미터의 미나레트는 수직으로 보이나 붕괴가 발생했을 때 건물에 피해가 가지 않도록 미세하게 바깥쪽을 향하고 있다.\n샤 자한이 타지마할이 완성된 직후 타지마할보다 더 아름다운 건물을 만드는 것을 막기 위하여 공사에 참여했던 모든 사람들의 손목을 잘랐다는 설화가 내려오지만, 거의 대부분의 고고학자들은 이를 그저 허구적 이야기로 치부하고 있다. 2007년 7월 7일 신(新) 세계 7대 기적에 선정되었다.\n2000년대에 들어서 타지마할의 한 첨탑이 점점 기울고 있다는 것을 BBC방송에서 발견하였다. 인도의 아그라 야무나 강(Yamuna River Agra)에 타지마할이 세워졌는다. 그 기초를 안정적인 유지를 위해 흑단나무로 했는데 아그라 야무나 강(Yamuna River Agra)이 완전히 마르면서 지난 30년 동안 3.5cm가 기울었다고 보도했다.",
+        "latitude": 28.534966662661496,
+        "longitude": 77.99819730027107,
+        "picture": "taj"
+    },
+    {
+        "id": 9,
+        "name": "Eiffel Tower",
+        "country": "france",
+        "description": "1889년 3월 31일 준공되었고, 1889년 5월 6일 개관하였다. 이것을 세운 프랑스의 교량기술자 구스타브 에펠의 이름을 따서 명명되었다. 재료로는 프랑스에서 제조된 7,300ｔ의 시멘즈 마르탕 평로강이 사용되었다. 탑에는 3개소에 각각 전망 테라스가 있다. 파리의 경치를 해치는 것이라고 해서 완공 당시 모파상과 같은 예술가와 지식인의 비판을 받았으나 그대로 남아 무전탑(無電塔)으로 이용되었다. 그러나 제2차 세계대전 후 55피트의 텔레비전 안테나가 덧붙여져서 텔레비전의 송신탑으로 사용되고 있다. 탑의 높이는 건설 후 약 40년간 인공 건조물로서는 세계 최고였다.",
+        "latitude": 48.85845092534406,
+        "longitude": 2.294460356506791,
+        "picture": "eiffel"
+    }
+ ]
