@@ -2,8 +2,6 @@
 //  Structure.swift
 //  CEMarvel01
 //
-//  Created by 김형관 on 2023/04/30.
-//
 
 import Foundation
 
@@ -16,5 +14,5 @@ struct Structure: Decodable, Identifiable, Hashable {
     let longitude: Double
     let picture: String
     
-    static let exampleStructure = Structure(id: 1, name: "Great Wall", country: "China", description: "More than 2200 years ago, the first emperor of China, after uniting the country, ordered the construction of this wall. Although what remains today is mainly from the Ming dynasty that existed from 14th to 17th century, we can see that the first emperor wanted to defend China from the intrusion of various nomadic powers. There must have been lots of hurdles to overcome to construct the great wall. Lots of people may have been injured or even died during the construction. But we see the purpose of this monumental structure. This was to protect lives and wealth of people.", latitude: 39.935539, longitude: 116.405640, picture: "great wall")
+    static let exampleStructure = Structure(id: 1, name: "자오저우만 대교", country: "중국", description: "*예시 데이터입니다. 자오저우만 대교는 산둥성 칭다오시 자오저우만을 횡단하는 왕복 6차선 해상교량이다. 길이 42.43km, 폭 35m, 높이(주탑) 149m이다. 현재 세계에서 가장 긴 해상교량으로, 홍콩과 마카오를 잇는 강주아오대교보다도 길며, 무려 인천대교의 두배 길이이다. 이 노선의 개통으로 칭다오시 동 서부 거리가 30km 정도 단축되었다. 리창구와 황다오구를 이으며 중간에 중국 최초로 해상 나들목으로 설치된 홍다오 나들목(红岛互通立交)을 통해 칭다오 자오둥 국제공항이 있는 홍다오쪽으로 갈 수 있다.", latitude: 36.1890, longitude: 120.3009, picture: "자오저우만")
 }

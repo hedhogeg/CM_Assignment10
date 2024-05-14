@@ -2,8 +2,6 @@
 //  Structures.swift
 //  CEMarvel01
 //
-//  Created by 김형관 on 2023/04/30.
-//
 
 import Foundation
 
